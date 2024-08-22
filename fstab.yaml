@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/bohnertchris/taxonomy-test/main"
     type: "markup"
     suffix: ".html"
