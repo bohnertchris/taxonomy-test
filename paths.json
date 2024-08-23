@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/securbank/:/",
-    "/content/securbank/taxonomy:/securbank-taxonomy.json"
+    "/content/securbank/:/"
   ]
 }
