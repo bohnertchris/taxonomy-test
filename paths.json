@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/taxonomy-test/:/",
-    "/content/taxonomy-test/securbank-taxonomy:/secret-taxonomy.json"
+    "/content/spacely-sprockets/:/"
   ]
 }
